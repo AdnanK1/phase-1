@@ -44,3 +44,5 @@ Based on the analysis, it is recommended that the new Microsoft movie studio foc
 In contrast, the analysis indicates that horror and sci-fi genres have obtained lower ratings. Therefore, it would be prudent for the Microsoft studio to prioritize genres that have demonstrated a higher potential for success, rather than investing heavily in horror or sci-fi films, which may face more challenges in terms of audience reception and satisfaction.
 
 By aligning the studio's content production strategy with genres that have a proven track record of positive ratings, Microsoft can position itself to deliver compelling and well-received films, enhancing its chances of success in the competitive movie industry.
+
+[https://docs.google.com/presentation/d/1ENqetznutCQgK1nvsLRQ8IVGsEdA_QmkVgJWsfioVu4/edit#slide=id.gc6f75fceb_0_0]presentation
