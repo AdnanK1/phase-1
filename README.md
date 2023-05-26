@@ -45,4 +45,4 @@ In contrast, the analysis indicates that horror and sci-fi genres have obtained 
 
 By aligning the studio's content production strategy with genres that have a proven track record of positive ratings, Microsoft can position itself to deliver compelling and well-received films, enhancing its chances of success in the competitive movie industry.
 
-[https://docs.google.com/presentation/d/1ENqetznutCQgK1nvsLRQ8IVGsEdA_QmkVgJWsfioVu4/edit#slide=id.gc6f75fceb_0_0]presentation
+[presentation](https://docs.google.com/presentation/d/1ENqetznutCQgK1nvsLRQ8IVGsEdA_QmkVgJWsfioVu4/edit#slide=id.gc6f75fceb_0_0)
