@@ -49,4 +49,4 @@ By aligning the studio's content production strategy with genres that have a pro
 
 To access the google slides click on this link: [presentation][def]
 
-[def]: https://docs.google.com/presentation/d/1ENqetznutCQgK1nvsLRQ8IVGsEdA_QmkVgJWsfioVu4/edit#slide=id.gc6f75fceb_0_0
+[def]: https://docs.google.com/presentation/d/1-vgl_huet3HKzGo0RrfIWHAQcE4_8d9ff62JuKIzwa0/edit#slide=id.gc6f889893_0_10
