@@ -14,7 +14,7 @@ By analyzing the prevailing box office performance, we can gain valuable insight
 
 ## Specific Objective
 
-The objective is to conduct exploratory data analysis on the `im.db` database in order to provide the company with statistical data. This analysis aims to offer valuable insights on which genres the studio should focus on to enhance their performance and receive favorable ratings. By examining the data and applying statistical techniques, we can provide the studio with meaningful recommendations regarding the genres that have the potential to improve their overall quality and attract positive audience reception.
+The objective is to perform exploratory data analysis on both the `im.db` database and the `bom.movie_gross.csv` file, with the intention of providing the company with valuable statistical insights. The analysis aims to identify which genres the studio should prioritize in order to enhance their performance and receive positive ratings from audiences. By thoroughly examining the data and applying statistical techniques, we can offer meaningful recommendations regarding the genres that have the potential to elevate the studio's overall quality and generate favorable audience reception. Additionally, we can assess the performance of other studios to determine which companies are more likely to collaborate on significant projects and gain recognition, thus opening up opportunities for the new studio.
 
 ## Data Understanding
 
