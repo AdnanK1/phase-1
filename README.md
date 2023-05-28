@@ -39,6 +39,8 @@ The 'bom.movie_gross.csv' dataset consists of 3387 rows and encompasses five col
 
 - These findings provide valuable insights for the studio, highlighting the genres that have a higher likelihood of receiving positive ratings and garnering audience acclaim. By leveraging these insights, the studio can focus on producing more content in the genres that have proven to be well-received, while also considering ways to enhance the quality and appeal of horror and sci-fi films to improve their ratings and audience reception.
 
+- After conducting the analysis, it was found that both BV Studio and P/DW Studio achieved the highest gross earnings. However, BV Studio primarily earned more domestically, while P/DW Studio earned a larger portion of their gross income from foreign markets.
+
 ## Recommendation
 
 Based on the analysis, it is recommended that the new Microsoft movie studio focuses on genres such as documentaries, biographies, music, and sports. These genres have consistently received high ratings and have resonated well with audiences. By capitalizing on the audience's preference for factual storytelling, real-life narratives, and engaging content related to music and sports, the studio can increase the likelihood of positive reception and audience satisfaction.
@@ -46,6 +48,8 @@ Based on the analysis, it is recommended that the new Microsoft movie studio foc
 In contrast, the analysis indicates that horror and sci-fi genres have obtained lower ratings. Therefore, it would be prudent for the Microsoft studio to prioritize genres that have demonstrated a higher potential for success, rather than investing heavily in horror or sci-fi films, which may face more challenges in terms of audience reception and satisfaction.
 
 By aligning the studio's content production strategy with genres that have a proven track record of positive ratings, Microsoft can position itself to deliver compelling and well-received films, enhancing its chances of success in the competitive movie industry.
+
+Taking inspiration from both BV and P/DW Studios, which have earned the highest gross among all studios, the new studio should follow their path. Collaborating with these studios in the future can benefit the new studio, as the success of BV and P/DW Studios will improve its chances of working on big projects and gaining recognition.
 
 ## Non Technical presentation
 
