@@ -1,4 +1,4 @@
-# Exploratory data analysis: Generate insight of movie genres for Microsoft
+# Exploratory data analysis: Generate insight of movie genres and Studios for Microsoft
 
 ## Introduction
 
