@@ -18,7 +18,7 @@ The objective is to conduct exploratory data analysis on the `im.db` database in
 
 ## Data Understanding
 
-The data being used is from the `im.db` database in which we are using two tables. Which are :
+The data utilized for analysis is sourced from two tables within the `im.db` database and the `bom.movie_gross.csv` file. These tables provide relevant information for the analysis process:
 
     * movie_basics
     * movie_ratings
@@ -28,6 +28,8 @@ The "movie_basics" table comprises 146,144 rows and includes six columns. It pro
 On the other hand, the "movie_ratings" table contains 73,856 rows and consists of three columns. This table contains data related to the ratings received by the movies, including average rating, number of votes, and movie ID.
 
 By leveraging the data from these two tables, we can gain insights into the movie attributes and ratings, allowing for comprehensive analysis and informed decision-making in the movie industry.
+
+The 'bom.movie_gross.csv' dataset consists of 3387 rows and encompasses five columns. These columns contain valuable information including the studio name, year, title, domestic gross, and foreign gross.
 
 ## Conclusion
 
